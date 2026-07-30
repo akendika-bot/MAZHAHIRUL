@@ -1,0 +1,6 @@
+{
+  "name": "Mazhahirul Khairat",
+  "description": "Aplikasi Majelis Ta'lim Mazhahirul Khairat - Surah Yasin, Al-Mulk, Al-Waqi'ah, Tahlil, & Qasidah Burdah",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
